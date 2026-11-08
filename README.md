@@ -208,4 +208,4 @@ DataCAD is offered as a complete free version with all features and updates incl
 Start creating stunning architectural designs today with DataCAD! Download your free copy now and unlock your creative potential!
 
 ---
-**Last updated:** 2026-11-08 06:58:14 UTC
+**Last updated:** 2026-11-08 14:13:37 UTC
